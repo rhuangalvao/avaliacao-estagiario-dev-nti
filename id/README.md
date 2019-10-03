@@ -2,20 +2,20 @@
 
 Altere este arquivo preenchendo os campos:
 
-Nome:
+Nome:Rhuan Luiz Galvão da Rocha
 
-E-mail:
+E-mail:rhuangalvao99@gmail.com
 
-Telefone:
+Telefone:(42)998081977
 
-Cidade:
+Cidade:Ponta Grossa
 
-Instituição de Ensino:
+Instituição de Ensino:Universidade Estadual de Ponta Grossa - Campus
 
-RA:
+RA:17163126
 
-Curso:
+Curso:Engenharia de Computação
 
-Período/Série:
+Período/Série:3ºano
 
-Minha experiencia com desenvolvimento:
+Minha experiencia com desenvolvimento:Java, JavaScript, C, C++, conhecimento básico de Python e SQL, ProLOG.
